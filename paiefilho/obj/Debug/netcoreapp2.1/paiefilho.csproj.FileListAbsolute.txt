@@ -1,0 +1,11 @@
+/Users/aluno/Projects/paiefilho/paiefilho/bin/Debug/netcoreapp2.1/paiefilho.deps.json
+/Users/aluno/Projects/paiefilho/paiefilho/bin/Debug/netcoreapp2.1/paiefilho.runtimeconfig.json
+/Users/aluno/Projects/paiefilho/paiefilho/bin/Debug/netcoreapp2.1/paiefilho.runtimeconfig.dev.json
+/Users/aluno/Projects/paiefilho/paiefilho/bin/Debug/netcoreapp2.1/paiefilho.dll
+/Users/aluno/Projects/paiefilho/paiefilho/bin/Debug/netcoreapp2.1/paiefilho.pdb
+/Users/aluno/Projects/paiefilho/paiefilho/obj/Debug/netcoreapp2.1/paiefilho.csprojAssemblyReference.cache
+/Users/aluno/Projects/paiefilho/paiefilho/obj/Debug/netcoreapp2.1/paiefilho.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/paiefilho/paiefilho/obj/Debug/netcoreapp2.1/paiefilho.AssemblyInfoInputs.cache
+/Users/aluno/Projects/paiefilho/paiefilho/obj/Debug/netcoreapp2.1/paiefilho.AssemblyInfo.cs
+/Users/aluno/Projects/paiefilho/paiefilho/obj/Debug/netcoreapp2.1/paiefilho.dll
+/Users/aluno/Projects/paiefilho/paiefilho/obj/Debug/netcoreapp2.1/paiefilho.pdb
